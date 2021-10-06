@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\obj\Debug\net5.0\AtmMachineApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\obj\Debug\net5.0\AtmMachineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\obj\Debug\net5.0\AtmMachineApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\obj\Debug\net5.0\AtmMachineApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\obj\Debug\net5.0\AtmMachineApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\bin\Debug\net5.0\AtmMachineApp.exe
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\bin\Debug\net5.0\AtmMachineApp.deps.json
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\bin\Debug\net5.0\AtmMachineApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\bin\Debug\net5.0\AtmMachineApp.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\bin\Debug\net5.0\AtmMachineApp.dll
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\bin\Debug\net5.0\ref\AtmMachineApp.dll
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\bin\Debug\net5.0\AtmMachineApp.pdb
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\obj\Debug\net5.0\AtmMachineApp.dll
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\obj\Debug\net5.0\ref\AtmMachineApp.dll
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\obj\Debug\net5.0\AtmMachineApp.pdb
+C:\Users\Administrator\source\repos\Commands\ConsoleApplication\obj\Debug\net5.0\AtmMachineApp.genruntimeconfig.cache
