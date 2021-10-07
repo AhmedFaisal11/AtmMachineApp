@@ -8,7 +8,7 @@ namespace AtmMachineApp
 {
     public class Atm
     {
-        private double totalBal = 100;
+        private double totalBal = 0;
         private int account;
         private int pin;
         private int drawMenu_selection;
@@ -72,6 +72,7 @@ namespace AtmMachineApp
                         break;
                     default:
                         Console.WriteLine("Please Select Above choices");
+                        drawMainMenu();
                         break;
                 }
             }
